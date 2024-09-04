@@ -9,3 +9,5 @@ Time Series Analysis - Intro: [![Open In Colab](https://colab.research.google.co
 Time Series Analysis 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dl-sdu-e24/blob/master/Lecture%207/dl-7-time-series-analysis-1.ipynb)
 
 Time Series Analysis 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dl-sdu-e24/blob/master/Lecture%208/dl-8-time-series-analysis-2.ipynb)
+
+Lab Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dl-sdu-e24/blob/master/Lab%20Tutorial/lab-tsc.ipynb)
